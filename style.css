@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+img {
+    margin-top: 5%;
+}
+
+.all {
+    text-align: center;
+    background-color: rgb(139, 139, 139);
+    width: 18%;
+    margin-top: 5%;
+    margin-left: 41%;
+    margin-right: 41%;
+}
+
+
